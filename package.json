@@ -1,0 +1,8 @@
+{
+  "name": "volto-testaddon",
+  "version": "1.0.0",
+  "description": "Test addon for Volto",
+  "main": "index.js",
+  "author": "Victor",
+  "license": "MIT"
+}
